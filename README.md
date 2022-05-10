@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-The project given by The Odin Project.
+The project is given by The Odin Project.
